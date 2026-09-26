@@ -44,18 +44,6 @@ The project is implemented as a Google Colab/Jupyter notebook and is designed to
 | PyYAML | Dataset configuration |
 | Pillow | Image processing |
 
-## Requirements
-
-Python 3.9+ is recommended.
-
-Install the dependencies with:
-
-```
-pip install -r requirements.txt
-```
-
-For Google Colab, the notebook also installs the main computer-vision packages directly.
-
 ## Dataset
 
 The notebook downloads the license-plate dataset from Roboflow using the Roboflow Python SDK.
