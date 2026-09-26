@@ -1,5 +1,7 @@
 # License Plate Detection and OCR
 
+https://github.com/user-attachments/assets/7eae1b02-54ac-4515-8e2b-a0b127de005b
+
 A computer vision project for **license plate detection, tracking, and text recognition** using **YOLO11**, **ByteTrack**, **EasyOCR**, and **OpenCV**.
 
 The project is implemented as a Google Colab/Jupyter notebook and is designed to process vehicle videos, detect license plates, track them across frames, and extract the detected plate text.
